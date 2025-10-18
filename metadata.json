@@ -1,0 +1,8 @@
+{
+  "name": "Guardian Link",
+  "description": "Safety App",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
